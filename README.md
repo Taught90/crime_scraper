@@ -1,4 +1,4 @@
-# E-BOOK SCRAPER
+# CRIME LIST SCRAPER
 - This is an crime list online scraper using the scrapy framework.
 - The content is in table format.
 - The link to the website is https://en.wikipedia.org/wiki/List_of_United_States_cities_by_crime_rate.
